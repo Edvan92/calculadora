@@ -1,1 +1,1 @@
-Calculadora tradiciona para cálculos básicos. Nada complexo apensa para o aprendizado da lógica em Javascript.
+Calculadora simples para cálculos básicos. Nada complexo apensa para o aprimoramento do raciocínio lógico com Javascript.
